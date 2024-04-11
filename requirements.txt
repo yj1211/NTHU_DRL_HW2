@@ -2,3 +2,10 @@ torch
 tqdm
 requests
 argparse
+scipy
+tensorflow
+random
+cv2
+collections
+sys
+time
