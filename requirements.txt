@@ -3,4 +3,3 @@ tqdm
 requests
 argparse
 scipy
-collections
