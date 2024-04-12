@@ -3,5 +3,4 @@ tqdm
 requests
 argparse
 scipy
-cv2
 collections
