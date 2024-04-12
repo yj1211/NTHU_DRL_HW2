@@ -6,9 +6,3 @@ scipy
 random
 cv2
 collections
-<<<<<<< HEAD
-sys
-
-=======
-sys
->>>>>>> 4610bcb77f29f94749d69dab0e627a7e07b729af
