@@ -3,6 +3,5 @@ tqdm
 requests
 argparse
 scipy
-random
 cv2
 collections
