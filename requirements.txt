@@ -8,8 +8,3 @@ random
 cv2
 collections
 sys
-<<<<<<< HEAD
-time
-=======
-time
->>>>>>> 4c2193b0a6ed2757ea3e523e4047e7c5e122d55d
